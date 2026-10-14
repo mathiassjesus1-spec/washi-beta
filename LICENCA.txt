@@ -1,0 +1,24 @@
+﻿WASHI — BETA GRATUITO (versão de teste) · Termos de uso
+
+Leia antes de instalar.
+
+1. O QUE É
+O Washi é um editor de imagens e design em fase de teste (beta). Esta versão é gratuita e vale até 30/11/2026. Depois dessa data o app avisa e pede a versão nova. Seus arquivos (.atelier) continuam no seu computador.
+
+2. SOBRE O AVISO DO WINDOWS
+Estamos finalizando a assinatura do Washi na Microsoft (Microsoft Store). Até lá, o Windows pode mostrar "O Windows protegeu o computador". Para instalar: clique em "Mais informações" e depois em "Executar assim mesmo". Baixe o instalador só pela página oficial:
+https://github.com/mathiassjesus1-spec/washi-beta/releases
+
+3. TODOS OS DIREITOS RESERVADOS
+O Washi, seu código, sua marca e seu visual pertencem ao criador do Washi (Mathias). Você pode instalar e usar este beta, inclusive em trabalhos comerciais. Não é permitido: copiar, descompilar, modificar, revender, redistribuir com outro nome ou publicar o código do app.
+
+4. INTELIGÊNCIA ARTIFICIAL
+A IA usa a sua própria chave (OpenRouter) ou um plano Washi. Os custos de IA são cobrados pelo provedor que você escolher. Você é responsável pelo que pede à IA e pelo uso das imagens geradas, inclusive direitos de terceiros sobre referências que você anexar.
+
+5. SEM GARANTIA
+Por ser um beta, o app pode ter erros. Salve seus projetos com frequência. O Washi é fornecido "como está", sem garantia de funcionamento ininterrupto.
+
+6. SEUS DADOS
+Seus projetos ficam no seu computador. O Washi não envia seus arquivos para nós. Pedidos de IA vão direto para o provedor que você escolheu.
+
+Ao clicar em "Concordo", você aceita estes termos.
