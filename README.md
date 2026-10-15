@@ -7,8 +7,8 @@ Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina d
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-111111)
 ![Grátis no beta](https://img.shields.io/badge/beta-gr%C3%A1tis-2ea043)
 ![Versão imutável](https://img.shields.io/badge/vers%C3%A3o-imut%C3%A1vel-2ea043)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F58%20antiv%C3%ADrus-2ea043)](https://www.virustotal.com/gui/file/48bd19aef86f024726b85e1f0c2601e05bbc5251fb60a729bba7ce866a03155f)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0%20amea%C3%A7as-2ea043)
+[![Verificado em 58 antivírus](https://img.shields.io/badge/58%20antiv%C3%ADrus-%E2%9C%93%20limpo-2ea043)](https://www.virustotal.com/gui/file/48bd19aef86f024726b85e1f0c2601e05bbc5251fb60a729bba7ce866a03155f)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-%E2%9C%93%20aprovado-2ea043)
 
 **Novo na 0.8.1:** abertura mais rápida, com tela de entrada, e a tela dos planos (no beta, tudo continua grátis).
 
@@ -40,7 +40,7 @@ Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina d
 
 | O que garante | Como você confere |
 |---|---|
-| **Sem vírus.** O instalador passou em **58 antivírus no VirusTotal (Google): 0 detecções**, e no Microsoft Defender: 0 ameaças (15/10/2026). | Veja o [resultado público no VirusTotal](https://www.virustotal.com/gui/file/48bd19aef86f024726b85e1f0c2601e05bbc5251fb60a729bba7ce866a03155f), ou clique com o botão direito no arquivo baixado → *Verificar com o Microsoft Defender*. |
+| **Verificado e limpo.** O instalador foi analisado por **58 antivírus** (Kaspersky, Avast, Bitdefender, Microsoft e outros) e **nenhum encontrou problema**. O Microsoft Defender também aprovou (15/10/2026). | Veja o [relatório público dos 58 antivírus](https://www.virustotal.com/gui/file/48bd19aef86f024726b85e1f0c2601e05bbc5251fb60a729bba7ce866a03155f), ou clique com o botão direito no arquivo baixado → *Verificar com o Microsoft Defender*. |
 | **O arquivo é o original.** A impressão digital SHA-256 muda inteira se mudar um único byte. | No PowerShell, na pasta do download: `Get-FileHash .\Washi-0.8.1-instalador.exe -Algorithm SHA256`. O resultado tem que ser igual ao `SHA256SUMS.txt`. O GitHub mostra o mesmo código ao lado do arquivo, em *Assets*. |
 | **Ninguém troca o instalador depois de publicado**, nem nós. A versão é **imutável**: o GitHub bloqueia trocar arquivos e mover a etiqueta. | Na página da versão aparece o selo **Immutable**. |
 | **Não precisa de senha de administrador.** | No instalador, escolha instalar só para você. |
