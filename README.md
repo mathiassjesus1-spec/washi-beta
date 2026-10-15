@@ -27,7 +27,7 @@ Cada versão vem com o `SHA256SUMS.txt`. No PowerShell, na pasta do download:
 Get-FileHash .\Washi-0.8.0-instalador.exe -Algorithm SHA256
 ```
 
-O código tem que ser **igual** ao do `SHA256SUMS.txt`. Se for diferente, não instale e nos avise. Veja também a [política de segurança](SECURITY.md).
+O código tem que ser **igual** ao do `SHA256SUMS.txt`. Se for diferente, não instale e nos avise. Veja também a [política de segurança](SECURITY.md) e a [política de privacidade](PRIVACIDADE.md).
 
 ## 🗓️ Validade do beta
 
