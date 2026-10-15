@@ -12,6 +12,8 @@ Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina d
 
 **Novo na 0.8.1:** abertura mais rápida, com tela de entrada, e a tela dos planos (no beta, tudo continua grátis).
 
+**Grátis durante o beta.** Depois do beta, você paga uma vez e o editor é seu para sempre, sem mensalidade. A IA é à parte: use modelos grátis com a sua própria chave ou um plano de IA do Washi.
+
 ## ⬇️ Baixar
 
 ### ✅ Recomendado: Microsoft Store
