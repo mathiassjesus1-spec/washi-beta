@@ -8,7 +8,7 @@ Sites que "espelham" o instalador não são nossos: não baixe deles.
 Cada versão publica o `SHA256SUMS.txt`. No PowerShell:
 
 ```powershell
-Get-FileHash .\Washi-0.8.0-instalador.exe -Algorithm SHA256
+Get-FileHash .\Washi-0.8.1-instalador.exe -Algorithm SHA256
 ```
 
 O resultado tem que ser **igual** ao do `SHA256SUMS.txt` da mesma versão. Se for diferente, não instale.
