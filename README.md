@@ -14,9 +14,17 @@ Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina d
 
 ## ⬇️ Baixar
 
+### ✅ Recomendado: Microsoft Store
+
+**[Baixar o Washi IA na Microsoft Store](https://apps.microsoft.com/detail/9MVDRRLHBXH5)** — grátis, assinado pela Microsoft (sem aviso do Windows) e com atualização automática. Na Store, procure **Washi IA**.
+
+### Ou pelo instalador daqui
+
 1. Abra **[a versão mais nova](https://github.com/mathiassjesus1-spec/washi-beta/releases/latest)**.
 2. Em **Assets**, baixe o **`Washi-0.8.1-instalador.exe`** (Windows 10/11, 64 bits).
 3. Dê dois cliques e siga o instalador.
+
+> Se o Windows mostrar a tela azul "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo**. Ela aparece com o instalador daqui porque ele não passa pela loja; pela Microsoft Store ela não aparece.
 
 ### O que é cada arquivo da versão
 
@@ -48,19 +56,13 @@ Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina d
 | **A sua chave de IA fica guardada criptografada** pelo próprio Windows e só vai para o OpenRouter. | Ninguém do Washi pede a sua chave por mensagem. |
 | **O app roda isolado.** A tela do editor não tem acesso direto ao sistema (sandbox do Electron), e as ferramentas de desenvolvedor vêm desligadas. | — |
 
-Baixe **só por esta página**. Cópias em outros sites não são nossas.
-
-## ⚠️ O Windows avisou "O Windows protegeu o computador"?
-
-**É esperado.** Esse aviso aparece em todo app novo que ainda não tem a assinatura digital da Microsoft. Ele não quer dizer que o arquivo tem vírus. Estamos finalizando a assinatura do Washi pela **Microsoft Store**; quando ela sair, o aviso some.
-
-Para instalar agora:
-1. Clique em **Mais informações**.
-2. Clique em **Executar assim mesmo**.
+Baixe **só pela [Microsoft Store](https://apps.microsoft.com/detail/9MVDRRLHBXH5) ou por esta página**. Cópias em outros sites não são nossas.
 
 ## 🗓️ Validade do beta
 
-Este beta é **gratuito** e vale **por tempo limitado**. Antes de terminar, o app avisa com 7 dias de antecedência. Depois disso, ele pede a versão nova, e os seus projetos (`.atelier`) continuam no seu computador.
+O instalador daqui é **gratuito** e vale **por tempo limitado**. Antes de terminar, o app avisa com 7 dias de antecedência. Depois disso, ele pede a versão nova, e os seus projetos (`.atelier`) continuam no seu computador.
+
+A versão da **Microsoft Store** não tem essa data: ela se atualiza sozinha.
 
 ## 🤖 IA
 
