@@ -3,10 +3,12 @@
 **Photoshop + Figma num app só, com IA trabalhando direto nas camadas.**
 Pincel, máscara, vetor e texto editáveis: a IA monta a peça e você termina do seu jeito.
 
+**Novo na 0.8.1:** abertura mais rápida, com tela de entrada, e a tela dos planos (no beta, tudo continua grátis).
+
 ## ⬇️ Baixar
 
 1. Abra **[Releases](https://github.com/mathiassjesus1-spec/washi-beta/releases/latest)**.
-2. Baixe o arquivo `Washi-0.8.0-instalador.exe` (Windows 10/11, 64 bits).
+2. Baixe o arquivo `Washi-0.8.1-instalador.exe` (Windows 10/11, 64 bits).
 3. Dê dois cliques e siga o instalador.
 
 ## ⚠️ O Windows avisou "O Windows protegeu o computador"?
@@ -24,14 +26,14 @@ Baixe **só por esta página**. Não use cópias de outros sites.
 Cada versão vem com o `SHA256SUMS.txt`. No PowerShell, na pasta do download:
 
 ```powershell
-Get-FileHash .\Washi-0.8.0-instalador.exe -Algorithm SHA256
+Get-FileHash .\Washi-0.8.1-instalador.exe -Algorithm SHA256
 ```
 
 O código tem que ser **igual** ao do `SHA256SUMS.txt`. Se for diferente, não instale e nos avise. Veja também a [política de segurança](SECURITY.md) e a [política de privacidade](PRIVACIDADE.md).
 
 ## 🗓️ Validade do beta
 
-Este beta é **gratuito** e vale até **30/11/2026**. Nos últimos 7 dias o app avisa. Depois disso, ele pede a versão nova, e os seus projetos (`.atelier`) continuam no seu computador.
+Este beta é **gratuito** e vale **por tempo limitado**. Antes de terminar, o app avisa com 7 dias de antecedência. Depois disso, ele pede a versão nova, e os seus projetos (`.atelier`) continuam no seu computador.
 
 ## 🤖 IA
 

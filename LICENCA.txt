@@ -3,7 +3,7 @@
 Leia antes de instalar.
 
 1. O QUE É
-O Washi é um editor de imagens e design em fase de teste (beta). Esta versão é gratuita e vale até 30/11/2026. Depois dessa data o app avisa e pede a versão nova. Seus arquivos (.atelier) continuam no seu computador.
+O Washi é um editor de imagens e design em fase de teste (beta). Esta versão é gratuita e vale por tempo limitado: quando o beta terminar, o app avisa alguns dias antes e depois pede a versão nova. Seus arquivos (.atelier) continuam no seu computador.
 
 2. SOBRE O AVISO DO WINDOWS
 Estamos finalizando a assinatura do Washi na Microsoft (Microsoft Store). Até lá, o Windows pode mostrar "O Windows protegeu o computador". Para instalar: clique em "Mais informações" e depois em "Executar assim mesmo". Baixe o instalador só pela página oficial:

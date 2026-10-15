@@ -1,1 +1,1 @@
-849eaff3dd6cbe1fa8618d2e71ca583e9a649e2e05810be9eae9e51bcc4be35a  Washi-0.8.0-instalador.exe
+48bd19aef86f024726b85e1f0c2601e05bbc5251fb60a729bba7ce866a03155f  Washi-0.8.1-instalador.exe
